@@ -17,8 +17,10 @@ El servidor httpserver escucha las solicitudes del servidor fachada que es la qu
 
 ## Utilización
 Esta aplicación se encuentra desplegada en Heroku
-
+httpsever
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://parcialarephttp.herokuapp.com)
+serverfachada
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://serverfachada.herokuapp.com/index.html)
 
 
 Construir una  aplicación web usando sockets que reciba un número y una cadena de tres caracteres. La cadena puede ser una de tres opciones: "cos", "sin", "tan". La aplicación asume que el número que recibe está en radianes y muestra el valor de la función trigonométrica correspondiente.
